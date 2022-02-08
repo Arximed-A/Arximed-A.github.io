@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e653e98b.css",
+    "main.js": "/static/js/main.1f737f00.js",
+    "static/media/language.svg": "/static/media/language.e1644456ad6d0463fdfa5c6ea69d2c3b.svg",
+    "static/media/settings.svg": "/static/media/settings.4b3cd23417ca8957b73cf9c6695dae79.svg",
+    "static/media/news.svg": "/static/media/news.7346c0ff04cddc636c298ca904e6f2ef.svg",
+    "static/media/rebel.svg": "/static/media/rebel.07ad51ec62d1677b43fd68a913876723.svg",
+    "static/media/home.svg": "/static/media/home.285ff944b250c346d08892525bb59984.svg",
+    "static/media/explore.svg": "/static/media/explore.17bcc61a964ba773754d83075c2cb763.svg",
+    "static/media/logout.svg": "/static/media/logout.75795215db0c7d59bb89c3ef4a2d7fe5.svg",
+    "static/media/pages.svg": "/static/media/pages.2e1e7ae0c9e20d0a035f8279681259d9.svg",
+    "static/media/trending.svg": "/static/media/trending.3790ba41997d8b62bf047a577e9e90f6.svg",
+    "static/media/profile.svg": "/static/media/profile.bf1351db7dbd26693bac4abb30788db1.svg",
+    "static/media/music.svg": "/static/media/music.af0c76fec423fd0af3afc4bbf48eee79.svg",
+    "static/media/messages.svg": "/static/media/messages.68d7e63900ef800d50e5d9d434a2d9f7.svg",
+    "index.html": "/index.html",
+    "main.e653e98b.css.map": "/static/css/main.e653e98b.css.map",
+    "main.1f737f00.js.map": "/static/js/main.1f737f00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e653e98b.css",
+    "static/js/main.1f737f00.js"
+  ]
+}
